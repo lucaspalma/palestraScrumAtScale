@@ -161,3 +161,8 @@
 .flutua-esquerda{
 	float: left;
 }
+
+.reveal .link-palestra {
+	font-family: monospace;
+	margin-top: 1em;
+}
