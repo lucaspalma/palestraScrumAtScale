@@ -40,9 +40,10 @@
 }
 
 .reveal .whoAmI a {
+	font-size: 1em;
 	display: block;
 	clear: both;
-	color: rgba(255, 255, 255, 0.4);
+	color: #BDC3C7;
 }
 
 .reveal .whoAmI a:hover {
@@ -165,4 +166,9 @@
 .reveal .link-palestra {
 	font-family: monospace;
 	margin-top: 1em;
+}
+
+.reveal a {
+	color: #BDC3C7;
+	font-size: 1.2em;
 }
