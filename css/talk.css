@@ -107,6 +107,10 @@
 	width: 600px;
 }
 
+.reveal section .imagem-grande {
+	width: 900px;
+}
+
 .reveal section .imagem-media {
 	width: 750px;
 }
